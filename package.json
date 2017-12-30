@@ -2,13 +2,15 @@
   "name": "twitter-bot",
   "version": "1.0.0",
   "description": "Basic Twitter bot.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabe Wyatt <gabe@gabewyatt.com> (http://gabewyatt.com)",
   "license": "ISC",
   "dependencies": {
-    "twitter": "^1.7.1"
+    "feedparser": "^2.2.7",
+    "twitter": "^1.7.1",
+    "request": "latest"
   }
 }

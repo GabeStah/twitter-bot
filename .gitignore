@@ -7,3 +7,6 @@ twitter-api-credentials.js
 
 # IDEA directory
 .idea/
+
+# Zip
+*.zip

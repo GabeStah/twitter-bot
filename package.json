@@ -9,8 +9,9 @@
   "author": "Gabe Wyatt <gabe@gabewyatt.com> (http://gabewyatt.com)",
   "license": "ISC",
   "dependencies": {
+    "airbrake-js": "^1.0.0",
     "feedparser": "^2.2.7",
-    "twitter": "^1.7.1",
-    "request": "latest"
+    "request": "latest",
+    "twitter": "^1.7.1"
   }
 }

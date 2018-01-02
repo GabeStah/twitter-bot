@@ -1,4 +1,7 @@
 ### .gitignore ###
+# Airbrake credentials
+airbrake-credentials.js
+
 # Twitter API credentials
 twitter-api-credentials.js
 
